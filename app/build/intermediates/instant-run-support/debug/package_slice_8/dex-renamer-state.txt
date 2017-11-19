@@ -1,0 +1,4 @@
+#Sun Nov 19 15:34:16 IST 2017
+base.0=/home/nilanka/Desktop/SimpleExpenseManager/app/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/home/nilanka/Desktop/SimpleExpenseManager/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex
